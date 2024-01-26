@@ -39,7 +39,6 @@ def weight_matrix_generation(placement, K, V):
     return weight_matrix
 
 # KM algorithm implemented by SciPy
-'''-----Idea contributed by group member: John Bousfield-----'''
 def Kuhn_Munkres(weight, V):
 
     np_weight = np.array(weight)
@@ -49,7 +48,6 @@ def Kuhn_Munkres(weight, V):
     M = min_val / V
 
     return M
-'''------------------------ END ------------------------------'''
 
 # metrics version: only return value
 def KMCA(placement, K, V):

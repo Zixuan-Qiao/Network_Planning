@@ -1,5 +1,5 @@
 # Software-Defined-Network Planning Algorithms
-This repository showcases part of a group project. 
+This repository showcases Zixuan (Alex) Qiao's contribution in a team project. 
 
 ## Introduction
 In this project, some state-of-art network planning algorithms are implemented to tackle the controller placement problem in SDN. 
@@ -13,7 +13,7 @@ The nodes_extraction.py and link_delay_dictionary.py processes raw data from Sur
 ## Project Architecture
 <img width="600" alt="5" src="https://github.com/Zixuan-Qiao/Network_Planning/assets/102449059/d2c498da-a9bc-430e-a5ea-c77a229efb28">
 
-Note: CPOA is not included in this repository since it was implemented by other group member. 
+Note: CPOA is not included in this repository since it was implemented by other group members. 
 
 ## Flowchart of GAPA.py
 <img width="716" alt="2" src="https://github.com/Zixuan-Qiao/Network_Planning/assets/102449059/4b658d90-3814-418d-b22a-609395f6643a">

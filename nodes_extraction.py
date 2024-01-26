@@ -42,6 +42,5 @@ for file_name in glob.glob(os.path.join(PATH, "*.txt")):
                     str(node["number"]) + default_controller_string + "\"},\n"
 
             f.write(line)
-
         f.write("]")
 

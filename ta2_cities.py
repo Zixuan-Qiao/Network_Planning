@@ -1,5 +1,5 @@
 list_of_cities = [
-	{"name":"N1","city_index":1,"isController": False, "controller":"N1"},
+	{"name":"N1","city_index":1,"isController": True, "controller":"N1"},
 	{"name":"N2","city_index":2,"isController": False, "controller":"N1"},
 	{"name":"N3","city_index":3,"isController": False, "controller":"N1"},
 	{"name":"N4","city_index":4,"isController": False, "controller":"N1"},
